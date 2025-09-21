@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblaba1_proj_lib.a CMakeFiles/laba1_proj_lib.dir/src/find_max.cpp.o
+/usr/bin/ranlib liblaba1_proj_lib.a
