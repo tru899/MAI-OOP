@@ -2,7 +2,7 @@
 # made by Egor Drobyshev
 oop labs 3 sem
 
-**variants:**
+## my variants:
 
 laba1 - var 15  
 laba2 - var 9  
@@ -12,7 +12,7 @@ laba5 - var 6
 laba6 - var 16  
 laba7 - var 3  
 
-**to compile use:**
+## to compile use:
 
 ```
 mkdir build
