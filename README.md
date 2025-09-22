@@ -1,4 +1,5 @@
 # MAI-OOP
+# made by Egor Drobyshev
 oop labs 3 sem
 
 laba1 - var 15  
