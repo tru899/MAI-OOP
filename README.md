@@ -2,6 +2,8 @@
 # made by Egor Drobyshev
 oop labs 3 sem
 
+**variants:**
+
 laba1 - var 15  
 laba2 - var 9  
 laba3 - var 8  
